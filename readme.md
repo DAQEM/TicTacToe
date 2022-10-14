@@ -47,15 +47,7 @@ Distributed under the MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Screenshots
-<div align="center">
-    <ul>
-        <li style="width: 200px; display: inline-block">Player won</li>
-        <li style="width: 200px; display: inline-block">Tie</li>
-        <li style="width: 200px; display: inline-block">Bot won</li>
-    </ul>
-</div>
-<div align="center">
-    <img style="width: 200px; height: 272px;" src="https://i.imgur.com/OxavUkn.png">
-    <img style="width: 200px; height: 272px;" src="https://i.imgur.com/M26Bhxq.png">
-    <img style="width: 200px; height: 272px;" src="https://i.imgur.com/JN5mzej.png">
-</div>
+
+| Player won                                 | Tie                                         | Bot won                                     |
+|--------------------------------------------|---------------------------------------------|---------------------------------------------|
+| <img src="https://i.imgur.com/OxavUkn.png">| <img src="https://i.imgur.com/M26Bhxq.png"> | <img src="https://i.imgur.com/JN5mzej.png"> |
