@@ -152,7 +152,7 @@ namespace TicTacToe
             this.pointsPlayer.Size = new System.Drawing.Size(68, 18);
             this.pointsPlayer.TabIndex = 10;
             this.pointsPlayer.Text = "You: 0";
-            this.pointsPlayer.BackColor = Color.Transparent;
+            this.pointsPlayer.BackColor = Color.White;
             // 
             // pointsBot
             // 
@@ -161,7 +161,7 @@ namespace TicTacToe
             this.pointsBot.Size = new System.Drawing.Size(47, 18);
             this.pointsBot.TabIndex = 11;
             this.pointsBot.Text = "Bot: 0";
-            this.pointsBot.BackColor = Color.Transparent;
+            this.pointsBot.BackColor = Color.White;
             // 
             // TicTacToe
             // 

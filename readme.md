@@ -44,10 +44,12 @@ This section lists any major frameworks/libraries used to bootstrap the project.
 
 ### License
 Distributed under the MIT License.
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Screenshots
 
 | Player won                                 | Tie                                         | Bot won                                     |
 |--------------------------------------------|---------------------------------------------|---------------------------------------------|
 | <img src="https://i.imgur.com/OxavUkn.png">| <img src="https://i.imgur.com/M26Bhxq.png"> | <img src="https://i.imgur.com/JN5mzej.png"> |
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
