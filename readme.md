@@ -46,13 +46,15 @@ This section lists any major frameworks/libraries used to bootstrap the project.
 Distributed under the MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Screenshot
-<div style="display: flex; justify-content: space-between; margin-left: 5%; margin-right: 5%" align="center" >
-    <div style="width: 200px; margin: 0; padding: 0"><p>Player won</p></div>
-    <div style="width: 200px"><p>Tie</p></div>
-    <div style="width: 200px"><p>Bot won</p></div>
+### Screenshots
+<div align="center">
+    <ul>
+        <li style="width: 200px; display: inline-block">Player won</li>
+        <li style="width: 200px; display: inline-block">Tie</li>
+        <li style="width: 200px; display: inline-block">Bot won</li>
+    </ul>
 </div>
-<div style="display: flex; justify-content: space-between; margin-left: 5%; margin-right: 5%">
+<div align="center">
     <img style="width: 200px; height: 272px;" src="https://i.imgur.com/OxavUkn.png">
     <img style="width: 200px; height: 272px;" src="https://i.imgur.com/M26Bhxq.png">
     <img style="width: 200px; height: 272px;" src="https://i.imgur.com/JN5mzej.png">
